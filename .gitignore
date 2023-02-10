@@ -1,0 +1,23 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Online Chat/*
+!/Online Chat/task/
+/Online Chat/task/*
+!/Online Chat/task/src
+!/Online Chat/task/messagedb.txt
+!/Online Chat/task/usersdb.txt
+!/Online Chat/task/tempusersdb.txt
+!/Online Chat/task/tempmessagedb.txt
